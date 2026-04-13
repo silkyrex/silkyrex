@@ -1,18 +1,20 @@
 # Raymond Zhu
 
-Building trading infrastructure, AI research pipelines, and small automation tools.
+Building algorithmic trading infrastructure, AI automation, and small productivity tools.
 
-## Best projects
-- [technical-regime](https://github.com/silkyrex/technical-regime) - Global market regime dashboard across indexes, sectors, bonds, futures, and FX
-- [time-tracker](https://github.com/silkyrex/time-tracker) - Voice-assisted time tracking workflow with webhook and Google Sheets backend
-- [wsj-brief](https://github.com/silkyrex/wsj-brief) - Daily WSJ PDF ingestion pipeline that turns news into AI-generated briefings
+## Trading & markets
+- [technical-regime](https://github.com/silkyrex/technical-regime) — Market regime dashboard across indexes, sectors, bonds, futures, and FX
+- [stop-loss](https://github.com/silkyrex/stop-loss) — 4 EMA position manager with Discord approvals and mandatory exits
+- [ta-brief](https://github.com/silkyrex/ta-brief) — Daily TA briefings: article ingestion → Claude → Notion
+- [wsj-brief](https://github.com/silkyrex/wsj-brief) — WSJ PDF pipeline → AI briefings
 
-## What I work on
-- Momentum trading systems
-- LLM-powered research and briefing pipelines
-- Personal productivity automation
+## Productivity & workflow
+- [time-tracker](https://github.com/silkyrex/time-tracker) — Voice-assisted time tracking with webhook and Google Sheets backend
+- [linear-os](https://github.com/silkyrex/linear-os) — Linear automation scripts for solo product work
 
-## Also worth a look
-- [ta-brief](https://github.com/silkyrex/ta-brief) - Notion article ingestion plus Claude-generated daily technical analysis briefs
-- [harsh-reviewer](https://github.com/silkyrex/harsh-reviewer) - Simplify-first Cursor subagent for strict code review
-- [marketing-agent-spec](https://github.com/silkyrex/marketing-agent-spec) - Multi-agent marketing orchestration spec
+## AI & tooling
+- [harsh-reviewer](https://github.com/silkyrex/harsh-reviewer) — Simplify-first Cursor subagent for strict code review
+- [marketing-agent-spec](https://github.com/silkyrex/marketing-agent-spec) — Multi-agent marketing orchestration spec
+
+## Focus
+Momentum trading · LLM-powered research pipelines · Personal automation
