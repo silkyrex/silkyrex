@@ -8,9 +8,6 @@ Practical automation for trading and the work around it.
 - [ta-brief](https://github.com/silkyrex/ta-brief) — Daily technical analysis briefs from research articles into Notion
 - [wsj-brief](https://github.com/silkyrex/wsj-brief) — WSJ PDFs to AI-generated market briefings
 
-## Productivity & workflow
-- [time-tracker](https://github.com/silkyrex/time-tracker) — Voice-assisted time logging
-
 ## AI & tooling
-- [marketing-agent-spec](https://github.com/silkyrex/marketing-agent-spec) — Multi-agent marketing orchestration spec
 - [harsh-reviewer](https://github.com/silkyrex/harsh-reviewer) — Simplify-first Cursor subagent for strict code review
+- [time-tracker](https://github.com/silkyrex/time-tracker) — Voice-assisted time logging with webhook + Google Sheets backend
