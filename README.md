@@ -10,7 +10,6 @@ Practical automation for trading and the work around it.
 
 ## Productivity & workflow
 - [time-tracker](https://github.com/silkyrex/time-tracker) — Voice-assisted time logging
-- [linear-os](https://github.com/silkyrex/linear-os) — Linear automation scripts for solo product work
 
 ## AI & tooling
 - [marketing-agent-spec](https://github.com/silkyrex/marketing-agent-spec) — Multi-agent marketing orchestration spec
