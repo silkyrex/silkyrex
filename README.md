@@ -1,13 +1,13 @@
 # Raymond Zhu
 
-Practical automation for trading and the work around it.
+Building AI-native infrastructure for momentum trading.
 
-## Trading & markets
-- [technical-regime](https://github.com/silkyrex/technical-regime) — Market regime dashboard across indexes, sectors, bonds, futures, and FX
+## Trading systems
+- [technical-regime](https://github.com/silkyrex/technical-regime) — Global market regime detection across 24 indexes, 10 sectors, bonds, futures, and FX
 - [stop-loss](https://github.com/silkyrex/stop-loss) — 4 EMA position manager with Discord approvals and mandatory exits
-- [ta-brief](https://github.com/silkyrex/ta-brief) — Daily technical analysis briefs from research articles into Notion
-- [wsj-brief](https://github.com/silkyrex/wsj-brief) — WSJ PDFs to AI-generated market briefings
+- [wsj-brief](https://github.com/silkyrex/wsj-brief) — WSJ PDF ingestion pipeline to AI-generated market briefings via Claude
 
-## AI & tooling
+## Claude Code skills
+- [politician-trades](https://github.com/silkyrex/politician-trades) — STOCK Act disclosures via Capitol Trades, Pelosi default
+- [cc-statusline](https://github.com/silkyrex/cc-statusline) — Token burn, context %, and weekly-reset countdown for Claude Code
 - [harsh-reviewer](https://github.com/silkyrex/harsh-reviewer) — Simplify-first Cursor subagent for strict code review
-- [time-tracker](https://github.com/silkyrex/time-tracker) — Voice-assisted time logging with webhook + Google Sheets backend
